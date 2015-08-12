@@ -1,0 +1,14 @@
+body{
+	padding: 2em;
+	font-family: Arial;
+}
+ul li{
+	font-weight: bolder;
+	display: inline-block;
+	color: #FFFFFF;
+	background-color: cadetblue;
+	padding:0.5em 1em;
+	margin: 0px 10px;
+	box-shadow: 2px 2px 3px 3px rgba(0, 0, 0, 0.4);
+	border: solid darkcyan 1px;
+}
